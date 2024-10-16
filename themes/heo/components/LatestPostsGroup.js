@@ -40,7 +40,7 @@ const LatestPostsGroup = ({ latestPosts, siteInfo }) => {
                 ' font-bold  overflow-x-hidden dark:text-white hover:text-indigo-600 px-2 duration-200 w-full rounded ' +
                 ' hover:text-indigo-400 cursor-pointer'
               }>
-              <div className='line-clamp-2 menu-link'>{post.title}</div>
+               {/* <div className='text-gray-400'>{post.lastEditedDay}</div> */}
             </div>
           </Link>
         )
