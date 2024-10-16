@@ -137,7 +137,7 @@ const CONFIG = {
   HEO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
   HEO_ARTICLE_RECOMMEND: true, // 文章关联推荐
 
-  HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
+  //HEO_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   HEO_WIDGET_ANALYTICS: false, // 显示统计卡
   HEO_WIDGET_TO_TOP: true,
   HEO_WIDGET_TO_COMMENT: true, // 跳到评论区
