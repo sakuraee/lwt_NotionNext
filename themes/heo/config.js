@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享编程',
   HEO_HERO_TITLE_2: '与生活思考',
-  HEO_HERO_TITLE_3: 'BLOG.SAKURAEE.COM'
+  HEO_HERO_TITLE_3: 'BLOG.SAKURAEE.COM',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
